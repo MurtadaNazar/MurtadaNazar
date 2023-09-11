@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_k_s_0" target="blank"><img src="https://img.shields.io/twitter/follow/s_k_s_0?logo=twitter&style=for-the-badge" alt="s_k_s_0" /></a> </p>
 
-- 🔭 I’m currently working on [my graduation project](soon)
+- 🔭 I’m currently working on [my graduation project](https://github.com/MurtadaNazar/PlateScaner-Pro)
 
 - 🌱 I’m currently learning **Java, Spring boot**
 
