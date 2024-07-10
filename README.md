@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/s_k_s_0" target="blank"><img src="https://img.shields.io/twitter/follow/s_k_s_0?logo=twitter&style=for-the-badge" alt="s_k_s_0" /></a> </p>
 
-- 🔭 I’m currently working on [my graduation project](https://github.com/MurtadaNazar/PlateScaner-Pro)
-
-- 🌱 I’m currently learning **Java, Spring boot**
+- 🔭 I’m currently working on [my project](soon)
+- 🌱 I’m currently learning **c#, .Net**
 
 - 👨‍💻 All of my projects are available at [https://murtadanazar.netlify.app/](https://murtadanazar.netlify.app/)
 
-- 💬 Ask me about **Nestjs,Nextjs, RESTful Api, GraphQl**
+- 💬 Ask me about **Nestjs, Nextjs, RESTful API, GraphQl**
 
 - 📫 How to reach me **mkm9284@gmail.com**
 
