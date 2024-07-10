@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [my project](soon)
 - 🌱 I’m currently learning **c#, .Net**
 
-- 👨‍💻 All of my projects are available at [https://murtadanazar.netlify.app/](https://murtadanazar.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://murtadanazar.netlify.app/)
 
 - 💬 Ask me about **Nestjs, Nextjs, RESTful API, GraphQl**
 
