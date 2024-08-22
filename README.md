@@ -51,9 +51,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MurtadaNazar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Murtada's GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MurtadaNazar&theme=tokyonight&hide_border=true" alt="Murtada's GitHub Streak" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtadaNazar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MurtadaNazar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Murtada's GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MurtadaNazar&theme=tokyonight&hide_border=true" alt="Murtada's GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtadaNazar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=MurtadaNazar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MurtadaNazar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## ✍️ Random Dev Quote
