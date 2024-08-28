@@ -21,7 +21,7 @@
 
 ## 🌐 Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/s_k_s_0) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/s_k_s_0](https://x.com/s_k_s_0)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murtada-nazar/) 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22388617/murtaza-nazar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/s3_yf) 
