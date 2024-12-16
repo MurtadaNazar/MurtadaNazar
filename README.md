@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on [my project](soon)
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Not thing**
 - 👨‍💻 All of my projects are available at [my portfolio](https://murtadanazar.netlify.app/)
 - 💬 Ask me about **NestJS, Laravel**
 - 📫 How to reach me: **mkm9284@gmail.com**
