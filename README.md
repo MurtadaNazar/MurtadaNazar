@@ -79,9 +79,7 @@
 ---
 
 <div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=MurtadaNazar&icon=2&color=6" alt="Profile Views" />
-    </a>
+    <p>https://profile-counter.glitch.me/MurtadaNazar/count.svg</p>
 </div>
 
 ---
