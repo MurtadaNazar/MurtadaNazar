@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-    <p>https://profile-counter.glitch.me/MurtadaNazar/count.svg</p>
+    <img src="https://profile-counter.glitch.me/MurtadaNazar/count.svg" alt="Profile Counter">
 </div>
 
 ---
