@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [my project](soon)
 - 🌱 I’m currently learning **.Net**
 - 👨‍💻 All of my projects are available at [my portfolio](https://murtadanazar.netlify.app/)
-- 💬 Ask me about **NestJS, Laravel**
+- 💬 Ask me about **.Net, NestJS, Laravel**
 - 📫 How to reach me: **mkm9284@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
